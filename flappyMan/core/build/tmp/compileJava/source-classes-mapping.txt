@@ -1,0 +1,20 @@
+com/mygdx/game/states/GameStateManager.java
+ com.mygdx.game.states.GameStateManager
+com/mygdx/game/sprites/Superman.java
+ com.mygdx.game.sprites.Superman
+com/mygdx/game/sprites/Animation.java
+ com.mygdx.game.sprites.Animation
+com/mygdx/game/states/State.java
+ com.mygdx.game.states.State
+com/mygdx/game/sprites/Obstacle.java
+ com.mygdx.game.sprites.Obstacle
+com/mygdx/game/FlappyMan.java
+ com.mygdx.game.FlappyMan
+com/mygdx/game/states/MenuState.java
+ com.mygdx.game.states.MenuState
+com/mygdx/game/states/PlayState.java
+ com.mygdx.game.states.PlayState
+com/mygdx/game/states/LivesState.java
+ com.mygdx.game.states.LivesState
+com/mygdx/game/states/GameOverState.java
+ com.mygdx.game.states.GameOverState
